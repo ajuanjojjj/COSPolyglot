@@ -1,2 +1,2 @@
 # COSPolyglot
- A utility mod for Chants of Sennaar.
+ A utility helper mod for adding custom languages and glyphs for Chants of Sennaar.
